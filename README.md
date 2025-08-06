@@ -49,7 +49,9 @@ Tenho forte base em:
 
 ## 🚧 Em desenvolvimento
 
-O projeto [Financial Management Nubank](https://github.com/oliverkobayashi/financial-management-nubank) está em desenvolvimento. Atualmente, estou implementando o front-end usando **Streamlit**, criando um dashboard interativo que oferece:
+O projeto [Financial Management Nubank](https://github.com/oliverkobayashi/financial-management-nubank) está em desenvolvimento. 
+
+Atualmente, a análise de dados é feito por um programa externo, como PowerBI ou Google Analytics. Por este motivo, estou implementando o front-end usando **Streamlit**, criando um dashboard que oferece:
 
 - Visão geral das receitas e despesas
 - Filtros dinâmicos por datas e categorias
