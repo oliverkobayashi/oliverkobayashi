@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um profissional em transição da indústria têxtil para a área de tecnologia, com foco em projetos que integram hardware e software. Atualmente, desenvolvo soluções que combinam sistemas embarcados, automação e dados, e tenho como objetivo, no futuro, atuar em projetos de maior escala que impactem positivamente a sociedade por meio da tecnologia.
+Sou um profissional em transição da indústria para a área de tecnologia, com foco em projetos que integram hardware e software. Atualmente, desenvolvo soluções que combinam sistemas embarcados, automação e dados, e tenho como objetivo, no futuro, atuar em projetos de maior escala que impactem positivamente a sociedade por meio da tecnologia.
 
 Tenho forte base em:
 - Operação e manutenção de máquinas industriais
